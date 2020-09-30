@@ -11,6 +11,17 @@ Our problem is build the e-commerce infrastructure including:
 ## Title
 
  ...
+ 
+## System components
+
+- Docker
+- Messaging systems
+- Auto build/deployments: Jenkin/TeamCity
+- Azure Cloud
+- Tags: Microservices, CQRS, Metdiator, Repository, SOLID ...
+ ...
+
+
 
 ## Installation
 
