@@ -5,7 +5,12 @@
 This project using microservices to build a backbond of larger system.
 
 Our problem is build the e-commerce infrastructure including: 
-- Manufactoring (Sản xuất: quản lý hàng hóa đầu vào, )
+- Research and management, analysis: nghiên cứu và quản lý và phân tích.
+- Manufactoring (Sản xuất: Quản lý nguyên liệu, chi phí, con người, kho sản phẩm, tài chính ...)
+- Commerce (Bán hàng, sản phẩm, hóa đơn, chương trình khuyến mãi, bảo hành, đối tác...)
+- Payment (Thanh toán, thanh toán bên thứ 3)
+- Shipping: (Vận tải, giao nhận hàng)
+- Warranty: (Bảo hành, hậu mãi)
 
 
 ## Title
